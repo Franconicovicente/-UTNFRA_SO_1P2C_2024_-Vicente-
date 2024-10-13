@@ -9,3 +9,4 @@ sudo mount /dev/sdc11 Examenes-UTN/profesores/
 blkid
 UUID="e004b8a4-cc30-421a-845a-5bd5f2ed9bcc" /Examenes-UTN/Alumno_1/parcial_1 ext4 defaults 0 0
 hasta el ultimo para montar de manera persistente
+Punto B terminado
