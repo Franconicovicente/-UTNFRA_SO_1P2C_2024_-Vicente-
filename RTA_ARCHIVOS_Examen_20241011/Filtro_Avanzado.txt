@@ -1,0 +1,6 @@
+Mi IP Publica es: 181.116.179.157
+Mi usuario es: vagrant
+El hash de mi usuario es: .J8o8/5JXqaI3xUKKQ0.VixFO/cPGuxMD..
+
+La URL de mi repositorio es: git@github.com:Franconicovicente/UTNFRA_SO_1P2C_2024_-Vicente.git
+
